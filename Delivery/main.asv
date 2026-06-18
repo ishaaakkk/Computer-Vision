@@ -1,0 +1,9 @@
+function main(imagePath)
+    imageClass = predictImageClass(imagePath);
+    fprintf('Sèrie predita pel model: %s\n', imageClass);
+    if isSpongeBob(imagePath)
+        fprintf()
+    else
+
+    end
+end
